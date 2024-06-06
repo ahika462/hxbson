@@ -3,7 +3,7 @@
 	"url": "https://github.com/ahika462/bson",
 	"license": "MIT",
 	"tags": ["cross", "bson", "serialization"],
-	"description": "Pure Haxe implementation of the BSON spec",
+	"description": "BSON implementation for Haxe",
 	"contributors": ["ahika462", "kevinresol"],
 	"version": "0.2.0",
 	"releasenote": "Update deprecated stuff",
