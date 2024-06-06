@@ -1,3 +1,3 @@
-HXBSON
+# HXBSON
 
 BSON implementation for Haxe
